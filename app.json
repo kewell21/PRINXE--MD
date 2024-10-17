@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": ","
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
