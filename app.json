@@ -9,12 +9,12 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "2250546526324;❣️Prince"
       },
      "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
        },
      "HKEY": {
       "description": "Put your Heroku API key Here",
